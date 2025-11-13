@@ -82,5 +82,26 @@ Cada uma demonstra uma forma diferente de pensamento algorítmico e eficiência 
 
 ---
 
-## 📂 Estrutura de Arquivos
+## 🖥️ Requisitos
+
+- Python 3.10+ (recomendado)
+- Nenhuma biblioteca externa além da biblioteca padrão
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/sua-org/seu-repo.git
+   cd seu-repo
+   ```
+2. Execute o arquivo principal:
+```bash
+   python main.py
+   ```
+3. O programa irá:
+
+- Rodar os 4 casos de teste,
+- Exibir os resultados de cada fase (Greedy, Recursiva, Memo, Bottom-Up),
+- Mostrar a tabela de programação dinâmica (Bottom-Up) no Caso 1,
+- Exibir a análise de complexidade ao final.
 
